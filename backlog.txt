@@ -1,0 +1,23 @@
+Backlog
+
+Sprint 01:
+
+	•	Story 001: Set up the project structure
+	•	Initialized a new Node.js project with package.json.
+	•	Created essential project files (main.js, router.js, main.html).
+	•	Set up routing using a custom router (router.js).
+ 
+	•	Story 002: Implement basic HTTP server
+	•	Developed a basic HTTP server in main.js using Node.js’s core http module.
+	•	Configured the server to listen on port 3000.
+ 
+	•	Story 003: Set up basic routing and responses
+	•	Implemented basic routing logic in router.js:
+	•	Served a plain text message for the root route (/).
+	•	Served a plain text message for the /info route.
+	•	Displayed an HTML page (main.html) for the /index.html route.
+	•	Set up a default 404 error response for undefined routes.
+ 
+	•	Story 004: Create and configure Git repository
+	•	Initialized a Git repository and made the initial commit.
+	•	Linked the repository to GitHub and pushed the project.
