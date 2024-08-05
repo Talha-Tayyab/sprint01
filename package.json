@@ -1,0 +1,23 @@
+{
+  "name": "sprint01",
+  "version": "1.0.0",
+  "description": "1stassignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talha-Tayyab/sprint01.git"
+  },
+  "author": "Talha-Tayyab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talha-Tayyab/sprint01/issues"
+  },
+  "homepage": "https://github.com/Talha-Tayyab/sprint01#readme",
+  "dependencies": {
+    "cities": "^2.0.0",
+    "http-status-codes": "^2.3.0"
+  }
+}
